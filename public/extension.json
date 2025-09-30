@@ -5,10 +5,10 @@
   "area": "editor-editor",
   "version": "1.0.0",
   "description": "Enhanced editor with Mermaid diagrams and Excalidraw drawing capabilities",
-  "url": "https://standard-notes-editor.ceo-a53.workers.dev/index.html",
-  "download_url": "https://standard-notes-editor.ceo-a53.workers.dev/extension.json",
-  "marketing_url": "https://github.com/mikeschlottig/standard-notes-enhanced-editor",
-  "thumbnail_url": "https://standard-notes-editor.ceo-a53.workers.dev/assets/thumbnail.png",
+  "url": "https://standard-notes-editor.pages.dev/index.html",
+  "download_url": "https://standard-notes-editor.pages.dev/extension.json",
+  "marketing_url": "https://github.com/mikeschlottig/standard-notes-custom",
+  "thumbnail_url": "https://standard-notes-editor.pages.dev/assets/thumbnail.png",
   "dock_icon": {
     "type": "circle",
     "background_color": "#007bff"
