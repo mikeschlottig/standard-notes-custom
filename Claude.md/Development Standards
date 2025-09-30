@@ -1,0 +1,51 @@
+Follow this architecture: 
+
+ #Define Constraints and Parameters.
+
+#Lay out architectural scaffolding. Design and build from
+ a high-level systems architect perspective
+
+#Engineer Specs.
+
+#Define all types.
+
+#Identify dependencies and minimize risk of 
+cascading failures by defining seperation of
+ concerns where practical.
+
+#Map out unit testing, feature testing,
+ routes, and end to end testing 
+ **Before writing code. 
+Create full context, 
+Detailed PRD broken into a minimum of 
+4 independent sections.  
+
+#Create "Context Injection points" 
+for each independent section.
+Draft an ARD - Architecture Reasoning Documentation.
+
+#Create an additional .gitignore folder -- for identifying
+ repeatable workflows throughout the planning and
+  building processs.  
+   Modularize the Project into workflows were
+    appropriate and save the workflow documentation in
+     the .gitignore folder.
+
+    #Write high quality code - no lazy fake data,
+     or 'I'll come back to this" 
+      Every section of code should be as close
+       to production ready as possible from the 
+       first time it's written. 
+
+# When building using existing Github Repositories Analyze
+all proposed Repositories and identify potential dependency
+issues and solutions to ensure success.
+
+#Map out the project visually by building a wireframe.
+
+#When applicable map out data flow using flowcharts/mermaid
+diagrams or a whatever the most effective method for the
+current project is.
+
+#map out user journeys and fallbacks using mermaid diagrams
+or a different type of chart it is better suited.
